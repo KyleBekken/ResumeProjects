@@ -1,6 +1,6 @@
 # Voting System
 
-@authors : Naviin Vejaya Kumar, John Cullom, Anna Frenz, Kyle Bekken
+@authors : Kyle Bekken, Naviin Vejaya Kumar, John Cullom, Anna Frenz
 
 
 Directory information:
