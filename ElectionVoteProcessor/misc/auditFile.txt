@@ -1,0 +1,31 @@
+OPL Election
+6 candidates running
+3 number of seats to give out
+File Input_OPL.csv : 13 number of ballots
+Candidate Pike of party D
+Candidate Foster of party D
+Candidate Deutsch of party R
+Candidate Borg of party R
+Candidate Jones of party R
+Candidate Smith of party I
+Ballot number 1 voted for Pike of party D
+Ballot number 2 voted for Pike of party D
+Ballot number 3 voted for Foster of party D
+Ballot number 4 voted for Smith of party I
+Ballot number 5 voted for Smith of party I
+Ballot number 6 voted for Borg of party R
+Ballot number 7 voted for Borg of party R
+Ballot number 8 voted for Pike of party D
+Ballot number 9 voted for Foster of party D
+Ballot number 10 voted for Deutsch of party R
+Ballot number 11 voted for Deutsch of party R
+Ballot number 12 voted for Pike of party D
+Ballot number 13 voted for Pike of party D
+Seat given to Pike in party D with 5 votes
+Tie between candidates Borg and Deutsch in party R
+Seat given to Deutsch in party R with 2 votes
+Seat given to D party by remainder
+Seat given to Foster in party D with 2 votes
+Party  D received 7 votes
+Party  R received 4 votes
+Party  I received 2 votes

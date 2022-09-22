@@ -1,0 +1,7 @@
+OPL Election
+Seat given to Pike in party D with 5 votes
+Seat given to Deutsch in party R with 2 votes
+Seat given to Foster in party D with 2 votes
+Party  D received 7 votes
+Party  R received 4 votes
+Party  I received 2 votes
